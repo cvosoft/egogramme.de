@@ -201,102 +201,102 @@ export const questions = [
     },
     {
         id: 41,
-        text: "Ich bin stets offen für Neues.",
-        category: "FK"
-    },
-    {
-        id: 42,
-        text: "Wenn ich mir von einem anderen alles gefallen lasse, wird er mich nicht achten.",
-        category: "RK"
-    },
-    {
-        id: 43,
-        text: "Mit Unterstützung und Förderung erreiche ich bei anderen Menschen bessere Ergebnisse als durch Kritik und Kontrolle.",
-        category: "FE"
-    },
-    {
-        id: 44,
-        text: "Es fällt mir oft schwer, eine unabhängige Denkweise beizubehalten, wenn ich mich dadurch im Widerspruch zu anderen befinde.",
+        text: "Geborgenheit ist mir sehr viel wichtiger als Freiheit.",
         category: "AK"
     },
     {
-        id: 45,
-        text: "Einen kühlen Kopf zu behalten ist für mich bei Entscheidungen und Konflikten das Wichtigste.",
-        category: "ER"
-    },
-    {
-        id: 46,
-        text: "Um Gerechtigkeit herzustellen, greife ich manchmal auch hart durch.",
-        category: "KE"
-    },
-    {
-        id: 47,
-        text: "Ich habe es gern, wenn andere Menschen mit ihren Problemen zu mir kommen.",
+        id: 42,
+        text: "Ich gebe sehr gern meine Erfahrungen an andere weiter.",
         category: "FE"
     },
     {
-        id: 48,
-        text: "Ich bin nicht so leicht von anderen Meinungen zu überzeugen.",
+        id: 43,
+        text: "Selbst in schwierigen Gesprächssituationen bleibe ich gelassen und klar.",
+        category: "ER"
+    },
+    {
+        id: 44,
+        text: "Ich ordne mich niemals freiwillig irgendwo unter.",
+        category: "RK"
+    },
+    {
+        id: 45,
+        text: "Ich habe genaue Vorstellungen davon, was richtig und was falsch ist.",
         category: "KE"
     },
     {
+        id: 46,
+        text: "Leitung eines Teams bedeutet für mich, sich im Konfliktfall vor die Teammitglieder zu stellen.",
+        category: "FE"
+    },
+    {
+        id: 47,
+        text: "Ich kann mich gut in Hierarchien unterordnen.",
+        category: "AK"
+    },
+    {
+        id: 48,
+        text: "Ich kann mich sehr gut entspannen.",
+        category: "FK"
+    },
+    {
         id: 49,
-        text: "Ich spreche oft unbequeme Dinge sehr direkt an.",
+        text: "Wenn ich in die Ecke gedrängt werde, kann man sich darauf verlassen, dass ich mich erbittert zur Wehr setze.",
         category: "RK"
     },
     {
         id: 50,
-        text: "Um einem anderen zu helfen, stelle ich gerne meine persönlichen Ansprüche und Bedürfnisse zurück.",
+        text: "Starken und kompetenten Menschen gegenüber fühle ich mich oft unterlegen.",
         category: "AK"
     },
     {
         id: 51,
-        text: "Ich bin stets offen für Neues.",
-        category: "FK"
+        text: "Klare Regeln und feste Vereinbarungen prägen mein Zusammenleben mit anderen Menschen.",
+        category: "KE"
     },
     {
         id: 52,
-        text: "Wenn ich mir von einem anderen alles gefallen lasse, wird er mich nicht achten.",
-        category: "RK"
+        text: "Es macht mir nichts aus, fremde Personen spontan anzusprechen.",
+        category: "FK"
     },
     {
         id: 53,
-        text: "Mit Unterstützung und Förderung erreiche ich bei anderen Menschen bessere Ergebnisse als durch Kritik und Kontrolle.",
-        category: "FE"
-    },
-    {
-        id: 54,
-        text: "Es fällt mir oft schwer, eine unabhängige Denkweise beizubehalten, wenn ich mich dadurch im Widerspruch zu anderen befinde.",
-        category: "AK"
-    },
-    {
-        id: 55,
-        text: "Einen kühlen Kopf zu behalten ist für mich bei Entscheidungen und Konflikten das Wichtigste.",
+        text: "Effektives Vorgehen und logische Planung bedingen sich.",
         category: "ER"
     },
     {
+        id: 54,
+        text: "Wahrscheinlich lassen sich die meisten zwischenmenschlichen Konflikte friedlich lösen.",
+        category: "FE"
+    },
+    {
+        id: 55,
+        text: "Ich möchte voll den Erwartungen entsprechen, die andere an mich stellen.",
+        category: "AK"
+    },
+    {
         id: 56,
-        text: "Um Gerechtigkeit herzustellen, greife ich manchmal auch hart durch.",
+        text: "Ungerechtigkeiten nehme ich lange übel.",
         category: "KE"
     },
     {
         id: 57,
-        text: "Ich habe es gern, wenn andere Menschen mit ihren Problemen zu mir kommen.",
+        text: "Schwachen stehe ich gerne zur Seite.",
         category: "FE"
     },
     {
         id: 58,
-        text: "Ich bin nicht so leicht von anderen Meinungen zu überzeugen.",
-        category: "KE"
+        text: "Ich versuche meistens, ein ausgewogenes Urteil abzugeben.",
+        category: "ER"
     },
     {
         id: 59,
-        text: "Ich spreche oft unbequeme Dinge sehr direkt an.",
-        category: "RK"
+        text: "Ich bin oft vertrauensseliger, als es angebracht wäre.",
+        category: "FK"
     },
     {
         id: 60,
-        text: "Um einem anderen zu helfen, stelle ich gerne meine persönlichen Ansprüche und Bedürfnisse zurück.",
-        category: "AK"
+        text: "Es ist vielleicht nicht der sachliche Weg, wütend zu werden, aber es hilft und bringt oft gute Ergebnisse.",
+        category: "RK"
     },
 ]
